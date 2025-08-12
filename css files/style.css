@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(49, 172, 224);
+}
+#box{
+    color:aliceblue;
+    background-color: #0000ff;
+}
+.heading{
+    color: #ff0000;
+    background-color: aliceblue;
+}
+button{
+    background-color: green;
+    color: aliceblue;
+}
+.first{
+    text-align: center;
+    text-decoration-style:solid;
+    text-decoration-color: red;
+}

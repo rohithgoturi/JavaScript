@@ -1,0 +1,19 @@
+*{
+    padding:0px;
+    margin:0px;
+    color:white;
+}
+
+h1{
+    color:black;
+    text-align:center;
+}
+
+div{
+    background-color:rgba(255,0,0,0.5);
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+}
