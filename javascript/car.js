@@ -5,3 +5,13 @@ const car = {
 };
 
 console.log(car.brand);
+
+
+let a;
+console.log(typeof a);
+
+{
+    var b = 34;
+}
+
+console.log(b);
